@@ -80,7 +80,7 @@ h3 {
 .aboutPhoto {
   height: 400px; 
   width: 400px; 
-  background: url('./Images/IMG_1635.jpg');
+  background: url('./IMG_1635.jpg');
   background-size: cover; 
   background-repeat: no-repeat;
   margin: 0 auto;  
@@ -149,13 +149,13 @@ i {
   margin: 10px; 
 }
 .bottom-div-1 {
-  background: url('./Images/Project3.png');
+  background: url('./Project3.png');
   background-size: contain; 
   transition: transform 1s ease;
   height: 300px; 
 }
 .bottom-div-2 {
-  background: url('./Images/Project4.png');
+  background: url('./Project4.png');
   background-size: contain; 
   transition: transform 1s ease;
   height: 300px; 
@@ -164,7 +164,7 @@ i {
   background-color: black; 
 }
 .bottom-div-3 {
-  background: url('./Images/Project1.png');
+  background: url('./Project1.png');
   background-size: contain; 
   transition: transform 1s ease;
   height: 300px;
@@ -173,7 +173,7 @@ i {
   background-color: white;  
 }
 .bottom-div-4 {
-  background: url('./Images/Project2.png');
+  background: url('./Project2.png');
   background-size: contain; 
   transition: transform 1s ease;
   height: 300px; 
