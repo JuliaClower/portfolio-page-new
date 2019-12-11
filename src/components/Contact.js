@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import emailIcon from "/Users/juliaclower/ga-sei/updated-resume/portfolio-app/src/circle-email-icon.png"
-import githubIcon from "/Users/juliaclower/ga-sei/updated-resume/portfolio-app/src/github-icon.png"
-import linkedinIcon from "/Users/juliaclower/ga-sei/updated-resume/portfolio-app/src/linkedin-icon.png"
-import resumeIcon from "/Users/juliaclower/ga-sei/updated-resume/portfolio-app/src/resume.png"
+import emailIcon from "/Users/juliaclower/ga-sei/portfolio-page-new/src/circle-email-icon.png"
+import githubIcon from "/Users/juliaclower/ga-sei/portfolio-page-new/src/github-icon.png"
+import linkedinIcon from "/Users/juliaclower/ga-sei/portfolio-page-new/src/linkedin-icon.png"
+import resumeIcon from "/Users/juliaclower/ga-sei/portfolio-page-new/src/resume.png"
 
 export default class Footer extends Component {
     render() {

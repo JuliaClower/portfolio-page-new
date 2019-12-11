@@ -16,7 +16,7 @@ export default class HeadBar extends Component {
                 </div>
                 </div>
                 <div className="navItems">
-                    <NavLink className="navLinks" to={'/'}>About</NavLink>
+                    <NavLink className="navLinks" to={'/about'}>About</NavLink>
                     <NavLink className="navLinks" to={'/projects'}>Projects</NavLink>
                     <NavLink className="navLinks" to={'/contact'}>Contact</NavLink>
                 </div>
