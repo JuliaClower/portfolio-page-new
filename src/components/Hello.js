@@ -1,10 +1,15 @@
 import React, { Component } from 'react'
+import About from './About'
+import Projects from './Projects'
+import Contact from './Contact'
 
 export default class Hello extends Component {
     render() {
         return (
             <div>
-                <h1>Hello</h1>
+                <About />
+                <Projects />
+                <Contact />
             </div>
         )
     }
